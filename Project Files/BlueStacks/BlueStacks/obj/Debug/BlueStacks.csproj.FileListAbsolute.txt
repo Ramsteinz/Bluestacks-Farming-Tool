@@ -1,0 +1,9 @@
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\BlueStacks\BlueStacks\bin\Debug\BlueStacks.exe.config
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\BlueStacks\BlueStacks\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\BlueStacks\BlueStacks\obj\Debug\BlueStacks.Properties.Resources.resources
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\BlueStacks\BlueStacks\obj\Debug\BlueStacks.csproj.GenerateResource.Cache
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\BlueStacks\BlueStacks\bin\Debug\BlueStacks.exe
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\BlueStacks\BlueStacks\bin\Debug\BlueStacks.pdb
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\BlueStacks\BlueStacks\obj\Debug\BlueStacks.exe
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\BlueStacks\BlueStacks\obj\Debug\BlueStacks.pdb
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\BlueStacks\BlueStacks\obj\Debug\BlueStacks.csprojResolveAssemblyReference.cache

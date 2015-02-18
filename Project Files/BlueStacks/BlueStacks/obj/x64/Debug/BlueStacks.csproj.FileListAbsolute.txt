@@ -1,0 +1,15 @@
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\BlueStacks\BlueStacks\bin\x64\Debug\x64\liblept168.dll
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\BlueStacks\BlueStacks\bin\x64\Debug\x64\libtesseract302.dll
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\BlueStacks\BlueStacks\bin\x64\Debug\x86\liblept168.dll
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\BlueStacks\BlueStacks\bin\x64\Debug\x86\libtesseract302.dll
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\BlueStacks\BlueStacks\bin\x64\Debug\Tesseract.dll
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\BlueStacks\BlueStacks\bin\x64\Debug\Tesseract.xml
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\BlueStacks\BlueStacks\obj\x64\Debug\BlueStacks.csprojResolveAssemblyReference.cache
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\BlueStacks\BlueStacks\obj\x64\Debug\BlueStacks.Properties.Resources.resources
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\BlueStacks\BlueStacks\obj\x64\Debug\BlueStacks.csproj.GenerateResource.Cache
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\BlueStacks\BlueStacks\bin\x64\Debug\BlueStacksFarmingTool.exe.config
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\BlueStacks\BlueStacks\bin\x64\Debug\BlueStacksFarmingTool.exe
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\BlueStacks\BlueStacks\bin\x64\Debug\BlueStacksFarmingTool.pdb
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\BlueStacks\BlueStacks\obj\x64\Debug\BlueStacksFarmingTool.exe
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\BlueStacks\BlueStacks\obj\x64\Debug\BlueStacksFarmingTool.pdb
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\BlueStacks\BlueStacks\obj\x64\Debug\BlueStacks.Form1.resources

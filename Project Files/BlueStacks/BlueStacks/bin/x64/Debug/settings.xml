@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <setting key="x1_add" value="58" />
+  <setting key="y1_add" value="82" />
+  <setting key="len" value="115" />
+  <setting key="height" value="70" />
+  <setting key="next_x" value="150" />
+  <setting key="next_y" value="59" />
+</config>
