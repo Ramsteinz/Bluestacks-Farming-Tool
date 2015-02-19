@@ -16,4 +16,4 @@
 *.rtf	 diff=astextplain
 *.RTF	 diff=astextplain
 
-Project Files/BlueStacks/packages* linguist-vendored
+Project\ Files/BlueStacks/packages* linguist-vendored
