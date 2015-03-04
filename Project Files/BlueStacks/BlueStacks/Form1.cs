@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Diagnostics;
 using System.Drawing;
 using System.IO;
 using System.Runtime.InteropServices;
@@ -120,6 +121,8 @@ namespace BlueStacks {
 												} else {
 													if ( checkBox1.Checked ) {
 														if ( ( textBox3.Text.Length > 0 || textBox4.Text.Length > 0 ) && ( curE != 0 || curG != 0 ) ) {
+															Debug.WriteLine( r.Bottom );
+															Debug.WriteLine( C.ToInt32( next_y ) );
 															Util.LeftMouseClick( r.Right - C.ToInt32( next_x ), r.Bottom - C.ToInt32( next_y ) );
 														}
 													}
@@ -176,7 +179,7 @@ namespace BlueStacks {
 		}
 
 		private void textBox9_TextChanged( object sender, EventArgs e ) {
-			next_y = textBox5.Text;
+			next_y = textBox9.Text;
 		}
 
 		private void button1_Click( object sender, EventArgs e ) {
